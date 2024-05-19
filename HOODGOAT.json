@@ -1,0 +1,22 @@
+{
+  "asset": "HOODGOAT",
+  "name": "HOODGOAT",
+  "pgpsig": "subterranean",
+  "description": "Do hoodgoat shit with friends!",
+  "images": [
+    {
+      "type": "icon",
+      "data": "https://arweave.net/VfZVqgIjvRaOjXrhFrWZEZ3Y_Q0VZCPzkYYFE8xvYps/thumb.png"
+    },
+    {
+      "type": "large",
+      "data": "https://arweave.net/1e1cyaIIYN4X_xH4F-SN8o9Bu2aaoRasjyYI_hUznBo/HOODGOAT.GIF"
+    }
+  ],
+  "social": [
+    {
+      "type": "twitter",
+      "data": "https://twitter.com/subterranean_1"
+    }
+  ]
+}
